@@ -1,0 +1,20 @@
+import java.util.ArrayList;
+import java.util.List;
+
+public class Exercicio04RemoveFuncionario {
+
+    public static void main(String[] args) {
+
+        List<String> funcionarios = new ArrayList<>();
+
+        funcionarios.add("João");
+        funcionarios.add("Maria");
+        funcionarios.add("Vitor");
+        funcionarios.add("Ana");
+
+        funcionarios.remove("João");
+
+        System.out.println(funcionarios);
+
+    }
+}
