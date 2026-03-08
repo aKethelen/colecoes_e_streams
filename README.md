@@ -21,25 +21,25 @@ Os exercícios estão organizados na pasta `src`, cada arquivo representa um exe
 
 
 src/
-## ├ Exercicio01ListaFuncionarios.java
-## ├ Exercicio02Contains.java
-## ├ Exercicio03GetElemento.java
-## ├ Exercicio04RemoveFuncionario.java
-## ├ Exercicio05TamanhoLista.java
-## ├ Exercicio06SetProdutos.java
-## ├ Exercicio07MapClientes.java
-## ├ Exercicio08Streams.java
-## ├ Exercicio09MapComissaoReduce.java
-## ├ Exercicio10RemoverEstudante.java
-## ├ Exercicio11AcessarFuncionarios.java
-## ├Exercicio12EventosUnicos.java
-## ├ Exercicio13VerificarCliente.java
-## ├ Exercicio14FuncionariosCurtos.java
-## ├ Exercicio15QuadradoNumeros.java
-## ├ Exercicio16TotalComImposto.java
-## ├ Exercicio17EstatisticasNotas.java
-## ├ Exercicio18MapClientes.java
-## └ Main.java
+#### ├ Exercicio01ListaFuncionarios.java
+#### ├ Exercicio02Contains.java
+#### ├ Exercicio03GetElemento.java
+#### ├ Exercicio04RemoveFuncionario.java
+#### ├ Exercicio05TamanhoLista.java
+#### ├ Exercicio06SetProdutos.java
+#### ├ Exercicio07MapClientes.java
+#### ├ Exercicio08Streams.java
+#### ├ Exercicio09MapComissaoReduce.java
+#### ├ Exercicio10RemoverEstudante.java
+#### ├ Exercicio11AcessarFuncionarios.java
+#### ├Exercicio12EventosUnicos.java
+#### ├ Exercicio13VerificarCliente.java
+#### ├ Exercicio14FuncionariosCurtos.java
+#### ├ Exercicio15QuadradoNumeros.java
+#### ├ Exercicio16TotalComImposto.java
+#### ├ Exercicio17EstatisticasNotas.java
+#### ├ Exercicio18MapClientes.java
+#### └ Main.java
 
 
 ##  Como executar o projeto
